@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://github.com/abhishek-singh-manhas/DoctorPatient/blob/ad7b0d5aa7410a5bff62fd2c07c1cb695b3c8dbf/snapshots/3ddoctors.png" 
+</p>
+
 # Doctor Patient Platform
 
 This is a backend API project built using Spring Boot Framework and Hibernate for carrying out database operations. The platform allows doctors to register their patients through a mobile or web portal and suggest the best doctor based on patient’s symptoms. 
@@ -83,4 +88,6 @@ The following fields are validated at the backend:
 ![swagger snap 1](https://github.com/abhishek-singh-manhas/DoctorPatient/blob/b4275cc7e5edd58d5e4c138e9ebd238bc2ba70ea/snapshots/outputSwagger1.jpg)
 ![swagger snap 2](https://github.com/abhishek-singh-manhas/DoctorPatient/blob/b4275cc7e5edd58d5e4c138e9ebd238bc2ba70ea/snapshots/outputSwagger2.jpg)
 
+## Summary
+The project requires creating entities for doctors and patients, along with their respective fields and validations. The system should be able to suggest doctors based on the patient's location and symptom. The logic for suggestion should be based on the speciality of the doctor and the symptom of the patient. The project needs to be implemented using Spring Boot framework for core functionalities along with Hibernate for database operations. Swagger can be used to list all the APIs. The project aims to provide a comprehensive solution for doctors and patients to manage their medical records and provide quick and efficient suggestions for better healthcare.
 
